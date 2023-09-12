@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Address": 3,
+    "Friend": 2
+  },
+  "models": {
+    "Address": {
+      "1": "{\"city\":\"Venlo\",\"postcode\":\"5912 BG\",\"street\":\"Tegelseweg\",\"number\":\"255\",\"id\":1}",
+      "2": "{\"city\":\"Amazing City\",\"postcode\":\"AmC43\",\"street\":\"Amazing Street\",\"number\":\"88\",\"friendId\":0,\"id\":2}"
+    },
+    "Friend": {
+      "1": "{\"firstname\":\"Amazing\",\"lastname\":\"Persona\",\"id\":1}"
+    }
+  }
+}
